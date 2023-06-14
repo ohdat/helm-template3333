@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  cronjob:
+  grpc:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-14T06:08:00.768960944Z"
+    created: "2023-06-14T06:08:55.503533327Z"
     description: A Helm chart for Kubernetes
-    digest: 38e0c534daa911fdd3c7f6f58baa703cb597ea7716eac137e4111eaeb314c0e2
-    name: cronjob
+    digest: 8ac0d98f05c7bf2d0aed1615b1cb3cffe401bed273881aa5304247c0efd48244
+    name: grpc
     type: application
     urls:
-    - https://github.com/ohdat/helm-template/releases/download/cronjob-1.1.5263652941/cronjob-1.1.5263652941.tgz
-    version: 1.1.5263652941
-generated: "2023-06-14T06:08:00.768966644Z"
+    - https://github.com/ohdat/helm-template/releases/download/grpc-1.1.5263660995/grpc-1.1.5263660995.tgz
+    version: 1.1.5263660995
+generated: "2023-06-14T06:08:55.503539328Z"
