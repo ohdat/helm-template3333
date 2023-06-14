@@ -11,6 +11,17 @@ entries:
     urls:
     - https://github.com/ohdat/helm-template/releases/download/bluegreen-1.1.5264059612/bluegreen-1.1.5264059612.tgz
     version: 1.1.5264059612
+  command:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-14T07:04:54.465844787Z"
+    description: A Helm chart for Kubernetes
+    digest: 920093d96f1896ca8b290b7261281065a558cea5775cda6b91717a60bd2b592a
+    name: command
+    type: application
+    urls:
+    - https://github.com/ohdat/helm-template/releases/download/command-1.1.5264075160/command-1.1.5264075160.tgz
+    version: 1.1.5264075160
   service:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -44,4 +55,4 @@ entries:
     urls:
     - https://github.com/ohdat/helm-template/releases/download/website-1.1.5263986429/website-1.1.5263986429.tgz
     version: 1.1.5263986429
-generated: "2023-06-14T07:03:23.547200709Z"
+generated: "2023-06-14T07:04:54.465850387Z"
