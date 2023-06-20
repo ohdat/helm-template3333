@@ -91,6 +91,8 @@ livenessProbe: {}
 
 startupProbe: {}     
 
+env: {}
+
 volume:
   enabled: false
   options: 
