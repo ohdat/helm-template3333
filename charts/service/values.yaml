@@ -10,7 +10,7 @@ image:
 
 config: 
   enabled: true
-  name: "ohdat"
+  name: "ohat"
   key: config.yaml
   path: config.yaml
   mountPath: /dist/
