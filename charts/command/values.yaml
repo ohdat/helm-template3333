@@ -22,6 +22,10 @@ commandOverride: []
 imagePullSecrets: 
 - name: "regcred"
 
+env:
+  MJ_SALAI_TOKEN:
+    value: MTAxNzAyMDc2OTMzMjYzNzczMA.GkqNTM.ncD24VmmYKqhF9k9Wom_Rp2-TmHwrIgP6PcSOU
+
 nameOverride: ""
 fullnameOverride: ""
 
